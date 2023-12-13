@@ -16,8 +16,7 @@ I am a PhD student at the [Progama de Pós graduação em Ecologia e Conservaç�
 
 -------------------------------------------------------------------------------------------------------------
 
-#### **Badges**
-<b>Top Repositories</b>
+#### **R packages developed or co-authored by me:**
 
 | Package              | A short summary                              | Downloads |
 | -------------------- | -------------------------------------------- | --------- |
