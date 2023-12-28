@@ -20,9 +20,9 @@ I am a PhD student at the [Progama de Pós graduação em Ecologia e Conservaç�
 
 | Package              | A short summary                              | Downloads |
 | -------------------- | -------------------------------------------- | --------- |
-| [<img align="left" width="40px" src="https://github.com/gabferreira/phyloraster/blob/master/man/figures/logo.png"/>](https://gabferreira.github.io/phyloraster) | Endemism and evolutionary diversity metrics for raster data | [![](http://cranlogs.r-pkg.org/badges/grand-total/phyloraster?color=green)](https://cran.r-project.org/package=phyloraster) |
-| [<img align="left" width="40px" src="https://github.com/flaviomoc/divraster/blob/master/man/figures/logo.png"/>](https://flaviomoc.github.io/divraster) | Taxonomic (TD), functional (FD), and phylogenetic (PD) diversity for raster data | [![](http://cranlogs.r-pkg.org/badges/grand-total/divraster?color=green)](https://cran.r-project.org/package=divraster) |
-| [<img align="left" width="40px" src="https://github.com/HemingNM/SESraster/blob/master/man/figures/logo.png"/>](https://hemingnm.github.io/SESraster) | Randomization of presence/absence species distribution raster data | [![](http://cranlogs.r-pkg.org/badges/grand-total/SESraster?color=green)](https://cran.r-project.org/package=SESraster) |
+| [<img align="left" width="60px" src="https://github.com/gabferreira/phyloraster/blob/master/man/figures/logo.png"/>](https://gabferreira.github.io/phyloraster) | Endemism and evolutionary diversity metrics for raster data | [![](http://cranlogs.r-pkg.org/badges/grand-total/phyloraster?color=green)](https://cran.r-project.org/package=phyloraster) |
+| [<img align="left" width="60px" src="https://github.com/flaviomoc/divraster/blob/master/man/figures/logo.png"/>](https://flaviomoc.github.io/divraster) | Taxonomic (TD), functional (FD), and phylogenetic (PD) diversity for raster data | [![](http://cranlogs.r-pkg.org/badges/grand-total/divraster?color=green)](https://cran.r-project.org/package=divraster) |
+| [<img align="left" width="60px" src="https://github.com/HemingNM/SESraster/blob/master/man/figures/logo.png"/>](https://hemingnm.github.io/SESraster) | Randomization of presence/absence species distribution raster data | [![](http://cranlogs.r-pkg.org/badges/grand-total/SESraster?color=green)](https://cran.r-project.org/package=SESraster) |
 -------------------------------------------------------------------------------------------------------------
 
 #### **Skills:**
@@ -41,7 +41,6 @@ src="https://github.com/devicons/devicon/blob/master/icons/github/github-origina
 
 <div>
   <a href="https://github.com/gabferreira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabferreira&layout=compact&langs_count=16&theme=dark"/>
 <div>
   
