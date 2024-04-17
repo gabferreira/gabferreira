@@ -1,4 +1,4 @@
-Hi 👋 My name is Gabriela Alves-Ferrreira
+Hi 👋 My name is Gabriela Alves-Ferreira
 =======================================
 
 I'm a ecologist focused on applying computational tools to understand the effect of climate change on diversity patterns, mainly for neotropical amphibians.
