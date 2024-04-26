@@ -10,7 +10,7 @@ I am a PhD student at the [Progama de Pós graduação em Ecologia e Conservaç�
 
 </p>
 
-* 🌍  I'm currently based in Austin, TX.
+* 🌍  I'm currently based in Ilheus, Brazil.
 * ✉️  You can contact me at [gabriela-alves77@hotmail.com](gabriela-alves77@hotmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
