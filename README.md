@@ -4,7 +4,7 @@ Hi 👋 My name is Gabriela Alves-Ferreira
 I'm a ecologist focused on applying computational tools to understand the effect of climate change on diversity patterns, mainly for neotropical amphibians.
 -------------------------------------------------------------------------------------------------------------
 
-I am a PhD student at the [Progama de Pós graduação em Ecologia e Conservação da Biodiversidade](https://www.ecologiauesc.com/), UESC - Ilhéus, BA, Brazil. I'm currently doing Doutorado Sanduíche (exchange) at the [Zamudio Lab](https://zamudiolab.org/). My interests includes Ecology, Herpetology, Conservation, Macroecology, GIS, Climate Change and Ecological niche models. <br>
+I am a PhD student at the [Progama de Pós graduação em Ecologia e Conservação da Biodiversidade](https://www.ecologiauesc.com/), UESC - Ilhéus, BA, Brazil. My interests includes Ecology, Herpetology, Conservation, Macroecology, GIS, Climate Change and Ecological niche models. <br>
 
 -------------------------------------------------------------------------------------------------------------
 
